@@ -46,11 +46,11 @@
       },
       "Microsoft.Testing.Extensions.Fakes": {
         "type": "Direct",
-        "requested": "[17.12.0, )",
-        "resolved": "17.12.0",
-        "contentHash": "L7n+MiXtov59H6KAt+sJtSLigKsBJ17zJW7SxZt+mrTWl6uH/dyt9L5g3hMbbqxU936wojtsvnQUUxigaECiiQ==",
+        "requested": "[17.14.1, )",
+        "resolved": "17.14.1",
+        "contentHash": "PGEdYPqbDEb8jSPd16Puh6FKwFb+twE+/8gbDnAh+Kb3lyKu3YHewSom8dLJ41Gwk8N7TXpvkBkHjBaOLdTd+A==",
         "dependencies": {
-          "Microsoft.QualityTools.Testing.Fakes": "17.12.0",
+          "Microsoft.QualityTools.Testing.Fakes": "17.14.1",
           "Microsoft.Testing.Platform": "1.2.1",
           "System.Reflection.Metadata": "8.0.0"
         }
@@ -174,8 +174,8 @@
       },
       "Microsoft.QualityTools.Testing.Fakes": {
         "type": "Transitive",
-        "resolved": "17.12.0",
-        "contentHash": "beKscMJhHSJatZKtSE9rZPDOFzLcN5btiBCt38zIJTYxz/hpJFvo0vQFEZ6Y/lW4A9510P6tNUCys8yAj1pqEw==",
+        "resolved": "17.14.1",
+        "contentHash": "8YryzQXqrNkgV7pnsfvvQjV2ORB9Erycytg/FcAcxB5veAKSZahcCoL025bAixMT1w5ov+ZM0GMIILIal0/HkA==",
         "dependencies": {
           "System.Reflection.Emit": "4.7.0",
           "System.Security.Permissions": "7.0.0"
