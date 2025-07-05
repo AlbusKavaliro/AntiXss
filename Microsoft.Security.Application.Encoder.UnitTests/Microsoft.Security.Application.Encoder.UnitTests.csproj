@@ -10,4 +10,22 @@
   <ItemGroup>
     <ProjectReference Include="..\Microsoft.Security.Application.Encoder\Microsoft.Security.Application.Encoder.csproj" />
   </ItemGroup>
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
+
+  <ItemGroup />
 </Project>

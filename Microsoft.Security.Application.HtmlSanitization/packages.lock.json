@@ -35,11 +35,11 @@
       },
       "System.Configuration.ConfigurationManager": {
         "type": "Direct",
-        "requested": "[9.0.3, )",
-        "resolved": "9.0.3",
-        "contentHash": "0kw80ykL/iFhNtFbPpjxIavmCk7/l6MqQwNSNhEoSNuI9C82ZZ251thzQZ/btHut21Y2G9M+amQY1K5bhaAjKg==",
+        "requested": "[9.0.6, )",
+        "resolved": "9.0.6",
+        "contentHash": "GQYhl3XCSGhxQvbRCjQiuGbJjm1tlq2lu98SGItjeingM7D+uKNnmKlK0MMuAU1asT7YtJ8uoT83WnGCuna9Qg==",
         "dependencies": {
-          "System.Security.Cryptography.ProtectedData": "9.0.3"
+          "System.Security.Cryptography.ProtectedData": "9.0.6"
         }
       },
       "Microsoft.Build.Tasks.Git": {
@@ -84,8 +84,8 @@
       },
       "System.Security.Cryptography.ProtectedData": {
         "type": "Transitive",
-        "resolved": "9.0.3",
-        "contentHash": "4PAwR9l3rhAESfymptisnO2KWpHmiTnKxovnREqmiY4BEakXD2ahQU4/NO0vzEarMw8RGzwpmWoiHwvL/waHfQ==",
+        "resolved": "9.0.6",
+        "contentHash": "yErfw/3pZkJE/VKza/Cm5idTpIKOy/vsmVi59Ta5SruPVtubzxb8CtnE8tyUpzs5pr0Y28GUFfSVzAhCLN3F/Q==",
         "dependencies": {
           "System.Memory": "4.5.5"
         }
