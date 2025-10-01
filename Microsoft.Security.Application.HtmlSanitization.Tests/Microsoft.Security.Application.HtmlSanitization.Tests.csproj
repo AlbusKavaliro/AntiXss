@@ -9,22 +9,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Microsoft.Security.Application.HtmlSanitization\Microsoft.Security.Application.HtmlSanitization.csproj" />
   </ItemGroup>
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
-
-  <ItemGroup />
 </Project>
