@@ -6,10 +6,10 @@
   </PropertyGroup>
   <ItemGroup Label="Microsoft">
     <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="8.0.0" />
-    <PackageVersion Include="System.Configuration.ConfigurationManager" Version="9.0.6" />
+    <PackageVersion Include="System.Configuration.ConfigurationManager" Version="9.0.9" />
   </ItemGroup>
   <ItemGroup Label="Roslynator">
-    <PackageVersion Include="Roslynator.Analyzers" Version="4.13.1" />
-    <PackageVersion Include="Roslynator.CodeFixes" Version="4.13.1" />
+    <PackageVersion Include="Roslynator.Analyzers" Version="4.14.0" />
+    <PackageVersion Include="Roslynator.CodeFixes" Version="4.14.0" />
   </ItemGroup>
 </Project>

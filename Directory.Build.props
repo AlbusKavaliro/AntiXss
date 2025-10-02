@@ -27,9 +27,9 @@
   <PropertyGroup>
     <Authors>Microsoft Corporation</Authors>
     <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
-    <PackageReleaseNotes>https://github.com/hangy/AntiXss/blob/main/CHANGELOG.md</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/AlbusKavaliro/AntiXss/blob/main/CHANGELOG.md</PackageReleaseNotes>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <RepositoryUrl>https://github.com/hangy/AntiXss.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/AlbusKavaliro/AntiXss.git</RepositoryUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryBranch>main</RepositoryBranch>

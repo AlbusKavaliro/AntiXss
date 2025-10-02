@@ -21,9 +21,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5.0.0
       - name: Setup .NET
-        uses: actions/setup-dotnet@v4
+        uses: actions/setup-dotnet@v5.0.0
         with:
           global-json-file: global.json
       - name: Restore tools
@@ -39,13 +39,13 @@ jobs:
         run: |
           find . -name "*.trx" -exec dotnet tool run trx2junit --output TestResults/JUnit {} +
       - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v5.1.2
+        uses: codecov/codecov-action@v5.5.1
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: hangy/AntiXss
+          slug: AlbusKavaliro/AntiXss
       - name: Upload test results to Codecov
         if: ${{ !cancelled() }}
-        uses: codecov/test-results-action@v1
+        uses: codecov/test-results-action@v1.1.1
         with:
           files: TestResults/JUnit/*.xml
           token: ${{ secrets.CODECOV_TOKEN }}
