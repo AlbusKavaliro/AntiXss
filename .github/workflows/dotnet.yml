@@ -42,7 +42,7 @@ jobs:
         uses: codecov/codecov-action@v5.1.2
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: hangy/AntiXss
+          slug: AlbusKavaliro/AntiXss
       - name: Upload test results to Codecov
         if: ${{ !cancelled() }}
         uses: codecov/test-results-action@v1

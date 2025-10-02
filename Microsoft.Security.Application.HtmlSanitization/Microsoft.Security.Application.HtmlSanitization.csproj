@@ -13,7 +13,7 @@
     <PackageSummary>HtmlSanitization for AntiXSS.NetStandardNET.</PackageSummary>
     <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageProjectUrl>https://github.com/hangy/AntiXss</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/AlbusKavaliro/AntiXss</PackageProjectUrl>
     <Copyright>(c) 2009, 2010, 2011 Microsoft Corporation</Copyright>
     <Language>en-US</Language>
     <Tags>AntiXSS, ASP.NET</Tags>

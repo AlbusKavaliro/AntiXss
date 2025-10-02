@@ -5,7 +5,7 @@
     <AssemblyName>AntiXssLibrary</AssemblyName>
     <AssemblyTitle>AntiXss Library for .NET Standard 2.0</AssemblyTitle>
     <AssemblyDescription>Encoding classes for safe-listing encoding of HTML, XML and other output types.</AssemblyDescription>
-    
+
     <Authors>Microsoft; AntiXSS Contributors</Authors>
     <Owners>AntiXSS Contributors</Owners>
     <PackageId>AntiXSS.NetStandard</PackageId>
@@ -13,7 +13,7 @@
     <PackageSummary>AntiXSS is an encoding library for .NET.</PackageSummary>
     <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageProjectUrl>https://github.com/hangy/AntiXss</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/AlbusKavaliro/AntiXss</PackageProjectUrl>
     <Copyright>(c) 2009, 2010, 2011 Microsoft Corporation</Copyright>
     <Language>en-US</Language>
     <Tags>AntiXSS, ASP.NET</Tags>
