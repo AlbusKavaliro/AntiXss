@@ -25,6 +25,12 @@
         "plugins": [
             "@semantic-release/commit-analyzer",
             "@semantic-release/release-notes-generator",
+            [
+                "@semantic-release/changelog",
+                {
+                    "changelogFile": "CHANGELOG.md"
+                }
+            ],
             "@droidsolutions-oss/semantic-release-update-file",
             "@semantic-release/npm",
             "@droidsolutions-oss/semantic-release-nuget",
@@ -67,5 +73,5 @@
             }
         ]
     },
-    "version": "0.2.1"
+    "version": "0.2.1-beta.3"
 }
