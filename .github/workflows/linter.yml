@@ -29,7 +29,7 @@ jobs:
     # Name the Job
     name: Lint Code Base
     # Set the agent to run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     ############################################
     # Grant status permission for MULTI_STATUS #
