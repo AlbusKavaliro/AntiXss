@@ -29,9 +29,9 @@
       },
       "Roslynator.CodeFixes": {
         "type": "Direct",
-        "requested": "[4.14.1, )",
-        "resolved": "4.14.1",
-        "contentHash": "q6ZurbGBXGbVchfxo6QAKdtGpAtWtFgmRGhPVlh8CS6UH2LgKmxeNv3oRi/2/a7uexbJTJgV3wT9UmIUZliheg=="
+        "requested": "[4.15.0, )",
+        "resolved": "4.15.0",
+        "contentHash": "rW5qeZnYifEQCkgY5w6S43fv1z3wYvpP9Xg4knWaM9cwqHec9w29ik0uWjbo69ryPs1p2N/IiQTL0uIjAuADPw=="
       },
       "Microsoft.Build.Tasks.Git": {
         "type": "Transitive",
