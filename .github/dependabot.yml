@@ -10,26 +10,6 @@ updates:
     schedule:
       interval: daily
 
-  - package-ecosystem: nuget
-    directory: /Microsoft.Security.Application.Encoder.UnitTests
-    schedule:
-      interval: daily
-
-  - package-ecosystem: nuget
-    directory: /Microsoft.Security.Application.Encoder
-    schedule:
-      interval: daily
-
-  - package-ecosystem: nuget
-    directory: /Microsoft.Security.Application.HtmlSanitization.Tests
-    schedule:
-      interval: daily
-
-  - package-ecosystem: nuget
-    directory: /Microsoft.Security.Application.HtmlSanitization
-    schedule:
-      interval: daily
-
   - package-ecosystem: npm
     directory: /
     schedule:
