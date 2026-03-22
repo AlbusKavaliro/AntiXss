@@ -12,6 +12,11 @@ jobs:
   dependency-submission:
     runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v5.0.0
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@fa2e9d605c4eeb9fcad4c99c224cee0c6c7f3594 # v2.16.0
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
       - name: Component detection
-        uses: advanced-security/component-detection-dependency-submission-action@v0.1.0
+        uses: advanced-security/component-detection-dependency-submission-action@d433c2f467e149a8009c8fbce92cc708ed15ef7b # v0.1.0
