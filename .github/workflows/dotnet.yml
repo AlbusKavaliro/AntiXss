@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-slim
 
     steps:
-      - uses: actions/checkout@v5.0.1
+      - uses: actions/checkout@v6.0.2
       - name: Setup .NET
         uses: actions/setup-dotnet@v5.2.0
         with:
