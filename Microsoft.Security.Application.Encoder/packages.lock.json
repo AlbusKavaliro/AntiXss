@@ -88,8 +88,8 @@
       },
       "System.Security.Cryptography.ProtectedData": {
         "type": "Transitive",
-        "resolved": "10.0.6",
-        "contentHash": "XsGj3pcZ4PIqz9Vhk7ymbL9iNQzOAnDzHmMBqK1rzjjfQBJ4AUZVJQWbDmTKUS8BIXX53QBDRrdiCpwdWfZM9A==",
+        "resolved": "10.0.7",
+        "contentHash": "eqKW9wyPUhZi6pxy9Y0fQO/bdHROcwj0tYdmoGEPCPCtCJLFdVVAlzuuYYEnJI64HxhoXPYGhtx891g/jwN4rg==",
         "dependencies": {
           "System.Memory": "4.6.3"
         }
@@ -97,16 +97,16 @@
       "AntiXSS.NetStandard.HtmlSanitization": {
         "type": "Project",
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "[10.0.6, )"
+          "System.Configuration.ConfigurationManager": "[10.0.7, )"
         }
       },
       "System.Configuration.ConfigurationManager": {
         "type": "CentralTransitive",
-        "requested": "[10.0.6, )",
-        "resolved": "10.0.6",
-        "contentHash": "NQyzNGPPKUf5ykuPcUl1oKiY/gS+r9iASQmc8ITcwC6jBC20C9aFMIrBznpirpkoRev6I+p9n11u5QcqTfr+vg==",
+        "requested": "[10.0.7, )",
+        "resolved": "10.0.7",
+        "contentHash": "NUV7+8ZpwAdtylEypliCwxTyMtt5oARCdEN9hOflL2dq5sGXHKAtBoVs1rb8qEj85ThC/5vJKDQmdiqKxZRgag==",
         "dependencies": {
-          "System.Security.Cryptography.ProtectedData": "10.0.6"
+          "System.Security.Cryptography.ProtectedData": "10.0.7"
         }
       }
     }
