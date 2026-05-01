@@ -1,3 +1,10 @@
+## [0.2.3-beta.1](https://github.com/AlbusKavaliro/AntiXss/compare/v0.2.2...v0.2.3-beta.1) (2026-02-01)
+
+
+### Bug Fixes
+
+* **deps:** Bump .NET SDK, C# version, NuGet packages, sync Roslynator analyzers ([3002759](https://github.com/AlbusKavaliro/AntiXss/commit/3002759ba185127f6e6058484f7ba95dd97f5eb9))
+
 ## [0.2.2](https://github.com/AlbusKavaliro/AntiXss/compare/v0.2.1...v0.2.2) (2025-11-13)
 
 
