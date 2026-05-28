@@ -27,7 +27,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Setup .NET
-        uses: actions/setup-dotnet@v5.2.0
+        uses: actions/setup-dotnet@v5.3.0
         with:
           global-json-file: global.json
       - name: Restore dependencies
