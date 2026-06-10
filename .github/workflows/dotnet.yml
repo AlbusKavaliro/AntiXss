@@ -39,7 +39,7 @@ jobs:
         run: |
           find . -name "*.trx" -exec dotnet tool run trx2junit --output TestResults/JUnit {} +
       - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v6.0.2
+        uses: codecov/codecov-action@v7.0.0
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           slug: AlbusKavaliro/AntiXss
