@@ -23,17 +23,17 @@ jobs:
       packages: write # to be able to publish to GitHub Packages
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
         with:
           fetch-depth: 0
       - name: Setup .NET
-        uses: actions/setup-dotnet@v5.2.0
+        uses: actions/setup-dotnet@v5.4.0
         with:
           global-json-file: global.json
       - name: Restore dependencies
         run: dotnet restore --locked-mode
       - name: Setup Node.js
-        uses: actions/setup-node@v6.4.0
+        uses: actions/setup-node@v6.5.0
         with:
           node-version: "lts/*"
           check-latest: true

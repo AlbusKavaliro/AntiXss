@@ -5,9 +5,9 @@
     <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
   </PropertyGroup>
   <ItemGroup Label="Microsoft">
-    <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="10.0.203" />
-    <PackageVersion Include="System.Configuration.ConfigurationManager" Version="10.0.7" />
-    <PackageVersion Include="Microsoft.Testing.Extensions.CodeCoverage" Version="18.6.2" />
+    <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="10.0.301" />
+    <PackageVersion Include="System.Configuration.ConfigurationManager" Version="10.0.10" />
+    <PackageVersion Include="Microsoft.Testing.Extensions.CodeCoverage" Version="18.9.0" />
   </ItemGroup>
   <ItemGroup Label="Roslynator">
     <PackageVersion Include="Roslynator.Analyzers" Version="4.15.0" />
