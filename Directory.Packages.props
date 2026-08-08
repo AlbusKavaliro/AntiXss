@@ -10,7 +10,7 @@
     <PackageVersion Include="Microsoft.Testing.Extensions.CodeCoverage" Version="18.9.0" />
   </ItemGroup>
   <ItemGroup Label="Roslynator">
-    <PackageVersion Include="Roslynator.Analyzers" Version="4.15.0" />
+    <PackageVersion Include="Roslynator.Analyzers" Version="4.16.0" />
     <PackageVersion Include="Roslynator.CodeFixes" Version="4.15.0" />
   </ItemGroup>
 </Project>
