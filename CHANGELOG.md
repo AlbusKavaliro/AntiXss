@@ -1,3 +1,10 @@
+## [0.2.4-beta.2](https://github.com/AlbusKavaliro/AntiXss/compare/v0.2.4-beta.1...v0.2.4-beta.2) (2026-08-16)
+
+
+### Bug Fixes
+
+* **deps:** Bump System.Configuration.ConfigurationManager to 10.0.11 ([8d988c1](https://github.com/AlbusKavaliro/AntiXss/commit/8d988c19c3cf68bb87bfae8957dc4fcdffd7461e))
+
 ## [0.2.4-beta.1](https://github.com/AlbusKavaliro/AntiXss/compare/v0.2.3...v0.2.4-beta.1) (2026-07-14)
 
 
