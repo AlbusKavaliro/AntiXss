@@ -12,6 +12,6 @@ jobs:
   dependency-submission:
     runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v5.0.0
+      - uses: actions/checkout@v7.0.1
       - name: Component detection
-        uses: advanced-security/component-detection-dependency-submission-action@v0.1.0
+        uses: advanced-security/component-detection-dependency-submission-action@v0.1.4
