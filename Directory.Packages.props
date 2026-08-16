@@ -11,6 +11,6 @@
   </ItemGroup>
   <ItemGroup Label="Roslynator">
     <PackageVersion Include="Roslynator.Analyzers" Version="4.16.0" />
-    <PackageVersion Include="Roslynator.CodeFixes" Version="4.16.0" />
+    <PackageVersion Include="Roslynator.CodeFixes" Version="4.16.1" />
   </ItemGroup>
 </Project>
