@@ -30,9 +30,9 @@
       },
       "Roslynator.CodeFixes": {
         "type": "Direct",
-        "requested": "[4.16.1, )",
-        "resolved": "4.16.1",
-        "contentHash": "wNdQyZB2eWODv5IJzuaYRDdXtUo41YODnkhIiSkt2T7vL+/h2qwGUoxL3nuavko1P4JbM691jVJBRYPYZlkktg=="
+        "requested": "[5.0.0, )",
+        "resolved": "5.0.0",
+        "contentHash": "u9fnwl7LBrtLrsET92/9SLufwzIVNf2gkElUSSJtgvKk2h1nvjudXwbXkuAFzitd7+VHI0SdgvtcSzozAfj3Yw=="
       },
       "System.Configuration.ConfigurationManager": {
         "type": "Direct",
