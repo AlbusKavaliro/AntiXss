@@ -1,3 +1,13 @@
+## [0.2.4](https://github.com/AlbusKavaliro/AntiXss/compare/v0.2.3...v0.2.4) (2026-08-16)
+
+
+### Bug Fixes
+
+* **deps:** Bump System.Configuration.ConfigurationManager to 10.0.11 ([8d988c1](https://github.com/AlbusKavaliro/AntiXss/commit/8d988c19c3cf68bb87bfae8957dc4fcdffd7461e))
+* **deps:** Update package lock files ([46b8259](https://github.com/AlbusKavaliro/AntiXss/commit/46b825992a8e3271d1a280ef1bcbfe9d12192eb2))
+* **deps:** Update package lock files ([9a10aaa](https://github.com/AlbusKavaliro/AntiXss/commit/9a10aaaa473a7c0f5d0b0e1682a6b045973f7b87))
+* **deps:** Update package lock files ([d206308](https://github.com/AlbusKavaliro/AntiXss/commit/d206308d80e8208014775841227d9f6a2f7bef03))
+
 ## [0.2.4-beta.2](https://github.com/AlbusKavaliro/AntiXss/compare/v0.2.4-beta.1...v0.2.4-beta.2) (2026-08-16)
 
 
