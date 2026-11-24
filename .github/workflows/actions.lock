@@ -8,7 +8,7 @@ workflows:
         - 'github/codeql-action@v4.39.4'
     '.github/workflows/component-detection.yml':
         - 'actions/checkout@v7.0.1'
-        - 'advanced-security/component-detection-dependency-submission-action@v0.2.0'
+        - 'advanced-security/component-detection-dependency-submission-action@v0.2.1'
     '.github/workflows/dependency-review.yml':
         - 'actions/checkout@v7.0.1'
         - 'actions/dependency-review-action@v5.0.1'
@@ -52,9 +52,9 @@ dependencies:
         commit: 'sha1-949feb2413d6458794dcd2491c4babbbce0c15c1'
         owner_id: 44036562
         repo_id: 189476904
-    'advanced-security/component-detection-dependency-submission-action@v0.2.0':
-        ref: 'v0.2.0'
-        commit: 'sha1-a02aeda7a175ad4dd38a13c4d3ff2df9da8f2cf0'
+    'advanced-security/component-detection-dependency-submission-action@v0.2.1':
+        ref: 'v0.2.1'
+        commit: 'sha1-9887d3a4295305f4e7b03a1cfdb2099d44cadf52'
         owner_id: 71494179
         repo_id: 604441937
     'amannn/action-semantic-pull-request@v6.1.3':
